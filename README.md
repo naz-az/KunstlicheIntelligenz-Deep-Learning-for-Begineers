@@ -4,15 +4,15 @@ Welcome to this repository dedicated to sharing deep learning projects with the 
 
 ## Project List
 
-1. **Linear Regression:** Understand the foundation of most machine learning algorithms with a project that predicts house prices.
+1. **Linear Regression:** Understand the foundation of most machine learning algorithms with regression projects.
 
-2. **Logistic Regression:** Explore a more advanced type of regression used for classification problems. In this project, we'll work on predicting if a patient has diabetes based on certain diagnostic measurements.
+2. **Logistic Regression:** Explore a more advanced type of regression used for classification problems.
 
-3. **Image Classification:** Delve into Convolutional Neural Networks (CNNs) with a project that identifies different types of fruits in images.
+3. **Image Classification:** Delve into Convolutional Neural Networks (CNNs) with a project that identifies different types of image classes.
 
-4. **Natural Language Processing (NLP):** We'll use Recurrent Neural Networks (RNNs) and Transformer models to predict next words in a sentence, sentiment analysis, and more.
+4. **Natural Language Processing (NLP):** We'll use deep learning models to predict next words in a sentence, sentiment analysis, and more.
 
-5. **Time Series Analysis:** This project deals with predicting future values based on previously observed values. We'll use RNNs and LSTM networks to forecast stock prices.
+5. **Time Series Analysis:** This project deals with predicting future values based on previously observed values. 
 
 
 ## Contributions
